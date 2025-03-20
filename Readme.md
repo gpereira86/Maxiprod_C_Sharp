@@ -1,12 +1,13 @@
-# Descrição do Projeto
+# Sistema de Controle de Gastos
 
-Sistema de Controle de Gastos, desenvolvido para gerenciar dados de despesas e de membros do grupo. O sistema foi projetado para ser simples, intuitivo, permitindo que os usuários registrem, visualizem e excluam se necessário seus gastos de forma eficiente.
+Desenvolvido para gerenciar dados de despesas e de membros do grupo. O sistema foi projetado para ser simples, intuitivo, permitindo que os usuários registrem, visualizem e excluam se necessário seus gastos de forma eficiente.
 
 Este projeto possui três componentes sendo:
 - Dois deles independentes (CLI e API);
 - Um dependente da API (Front-end).
 
 
+## O projeto
 
 1. **API**: O projeto inclui uma API de CRUD (incompleto - sem update), responsável por interagir com o banco de dados e fornecer as informações necessárias para o sistema. A API, apesar de ser idenpendente, éfoi desenvolvida para atender às requisições do front-end e garantir a comunicação segura e eficiente entre o banco de dados e a interface de usuário. <br/>  [Link para API](./ControleDeGastosWeb)
 
@@ -16,3 +17,5 @@ Este projeto possui três componentes sendo:
 
 
 Juntos, esses três componentes atendem aos requisitos do sistema de controle de gastos, garantindo uma experiência fluida e eficiente para o usuário, seja por meio de comandos diretos no CLI ou pela interface gráfica.
+
+### Enjoy!
