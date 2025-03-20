@@ -16,12 +16,16 @@ Este projeto é uma API em ASP.NET Core para gerenciamento de pessoas e transaç
 Clone o repositório do projeto para sua máquina local usando o comando:
 
 ```bash
-git clone https://seurepositorio.com/controle-de-gastos-web.git
+git clone https://github.com/gpereira86/Maxiprod_C_Sharp.git
 ```
 
 ### 2. Abrir o Projeto
 
-Abra o projeto na sua IDE preferida (Visual Studio, Visual Studio Code, etc.) ou execute os comandos diretamente no terminal.
+Abra o projeto na sua IDE preferida (Visual Studio, Visual Studio Code, etc.) ou execute os comandos diretamente no terminal e navegue até a pasta da api no terminal:
+
+```bash
+cd Maxiprod_C_Sharp/ControleDeGastosWeb
+```
 
 ### 3. Restaurar Pacotes NuGet
 
