@@ -16,7 +16,7 @@ Este projeto é uma API em ASP.NET Core para gerenciamento de pessoas e transaç
 Clone o repositório do projeto para sua máquina local usando o comando:
 
 ```bash
-git clone https://seurepositorio.com/controle-de-gastos-web.git
+git clone https://github.com/gpereira86/Maxiprod_C_Sharp/tree/main/ControleDeGastosWeb.git
 ```
 
 ### 2. Abrir o Projeto
