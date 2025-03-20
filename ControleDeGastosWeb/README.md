@@ -19,14 +19,13 @@ Clone o repositório do projeto para sua máquina local usando o comando:
 git clone https://github.com/gpereira86/Maxiprod_C_Sharp.git
 ```
 
-Em seguida navegue até a pasta pelo terminal:
+### 2. Abrir o Projeto
+
+Abra o projeto na sua IDE preferida (Visual Studio, Visual Studio Code, etc.) ou execute os comandos diretamente no terminal e navegue até a pasta da api no terminal:
+
 ```bash
 cd Maxiprod_C_Sharp/ControleDeGastosWeb
 ```
-
-### 2. Abrir o Projeto
-
-Abra o projeto na sua IDE preferida (Visual Studio, Visual Studio Code, etc.) ou execute os comandos diretamente no terminal.
 
 ### 3. Restaurar Pacotes NuGet
 
