@@ -1,5 +1,7 @@
 # Descrição do Projeto
 
+Sistema de Controle de Gastos, desenvolvido para gerenciar dados de despesas e de membros do grupo. O sistema foi projetado para ser simples, intuitivo, permitindo que os usuários registrem, visualizem e excluam se necessário seus gastos de forma eficiente.
+
 Este projeto possui três componentes sendo:
 - Dois deles independentes (CLI e API);
 - Um dependente da API (Front-end).
