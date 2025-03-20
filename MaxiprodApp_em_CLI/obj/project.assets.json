@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp\\MaxiprodApp.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj",
       "projectName": "MaxiprodApp",
-      "projectPath": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp\\MaxiprodApp.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj",
       "packagesPath": "C:\\Users\\glauc\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\glauc\\AppData\\Roaming\\NuGet\\NuGet.Config"

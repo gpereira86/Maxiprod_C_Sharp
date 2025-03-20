@@ -4,7 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeGastosWeb", "ControleDeGastosWeb\ControleDeGastosWeb.csproj", "{1B8A9902-4A19-ECD1-8034-A7DB88762850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxiprodApp", "MaxiprodApp\MaxiprodApp.csproj", "{0DB3C8E1-98EB-9599-3188-0E6EA65FB643}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxiprodApp", "MaxiprodApp_em_CLI\MaxiprodApp.csproj", "{0DB3C8E1-98EB-9599-3188-0E6EA65FB643}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
