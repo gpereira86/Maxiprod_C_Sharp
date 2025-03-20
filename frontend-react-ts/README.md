@@ -34,7 +34,7 @@ Siga os passos abaixo para rodar o frontend localmente:
 Primeiro, clone o repositório para o seu computador:
 
 ```bash
-git clone <URL do repositório>
+git clone https://github.com/gpereira86/Maxiprod_C_Sharp.git
 ```
 
 ### 2. Navegue até o diretório do projeto
@@ -42,7 +42,7 @@ git clone <URL do repositório>
 Entre na pasta do projeto clonado:
 
 ```bash
-cd nome-do-repositorio
+cd frontend-react-ts
 ```
 
 ### 3. Instale as dependências
