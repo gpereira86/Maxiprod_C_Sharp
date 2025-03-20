@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj": {}
+    "c:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj": {}
   },
   "projects": {
-    "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj": {
+    "c:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj",
+        "projectUniqueName": "c:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj",
         "projectName": "MaxiprodApp",
-        "projectPath": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj",
+        "projectPath": "c:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\MaxiprodApp.csproj",
         "packagesPath": "C:\\Users\\glauc\\.nuget\\packages\\",
-        "outputPath": "C:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\obj\\",
+        "outputPath": "c:\\xampp\\htdocs\\Maxiprod_C_Sharp\\MaxiprodApp_em_CLI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\glauc\\AppData\\Roaming\\NuGet\\NuGet.Config"
