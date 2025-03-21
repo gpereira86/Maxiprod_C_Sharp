@@ -11,7 +11,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddCors(options =>
     {
         options.AddPolicy("AllowReactApp",
-            builder => builder.WithOrigins("http://localhost:3000")
+            builder => builder.WithOrigins("http://localhost:3000") // se necessário, alterar aqui conforme Readme para atender ao front
                 .AllowAnyMethod()
                 .AllowAnyHeader());
     });

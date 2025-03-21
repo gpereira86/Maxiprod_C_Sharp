@@ -1,4 +1,4 @@
--- SeedData.sql
+-- Dados Fake, para testes: SeedData.sql
 
 BEGIN TRANSACTION;
 INSERT INTO "Pessoas" ("Id","Nome","Idade") VALUES (1,'Donielle Culkin',10);

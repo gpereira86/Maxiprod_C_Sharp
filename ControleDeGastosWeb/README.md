@@ -93,7 +93,7 @@ Isso irá iniciar o servidor da API, geralmente acessível em `http://localhost:
 
 ### 8. Testar a API
 
-Você pode testar as funcionalidades da API usando uma ferramenta como o [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/).
+Você pode testar as funcionalidades da API diretamente no navegador utilizando o Swagger, basta acessar a `url do projeto` seguido de `/swagger`, exemplo: `http://localhost:5000/swagger`, ou através de uma ferramenta como o [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/).
 
 - `GET /api/pessoas`: Retorna a lista de pessoas cadastradas.
 - `POST /api/pessoas`: Cria uma nova pessoa.
@@ -109,7 +109,7 @@ Você pode testar as funcionalidades da API usando uma ferramenta como o [Postma
 
 <br/>
 
-> Nota !Importante!: Se for usar o projeto um front-end, note que no arquivo _**Program.cs**_ existe um _**Builder**_ adicionando Cors, então é necessário informar o url a ser usado no front, para que a API "Aceite" as requisições.
+> **Nota Importante!**: Se utilizar o projeto em um front-end, note que no arquivo _**Program.cs**_ existe um _**Builder**_ adicionando _**Cors**_, então é necessário informar o url a ser usado no seu front, para que a API "Aceite" as requisições.
 
 ```c#
 builder.Services.AddCors(options =>
